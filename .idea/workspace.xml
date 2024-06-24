@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa3050b8-81af-4498-94bb-cfbf70aa3da8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/NoyronAnalysis140624.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Analysis/NoyronAnalysis140624.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/NoyronAnalysis140624-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/NoyronAnalysis140624-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/ChamberThermocouples.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/ChamberThermocouples.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/CharacteristicVelocity.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/CharacteristicVelocity.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/CoefficientOfDischarge.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/CoefficientOfDischarge.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/CombustionInstabilitiesFFT.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/CombustionInstabilitiesFFT.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/CombustionInstabilitiesSpectrogram.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/CombustionInstabilitiesSpectrogram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/FuelTemperatures.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/FuelTemperatures.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/MassAndOF.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/MassAndOF.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/SpecificImpulse.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/SpecificImpulse.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/TemperatureDistribution.html" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/TemperatureDistribution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/ThrustPressure.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/ThrustPressure.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NoyronAnalysis140624.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NoyronAnalysis140624.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe_figures/figure_14.html" beforeDir="false" afterPath="$PROJECT_DIR$/iframe_figures/figure_14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe_figures/figure_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/iframe_figures/figure_3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +79,8 @@
       <workItem from="1719158044640" duration="286000" />
       <workItem from="1719161371619" duration="4661000" />
       <workItem from="1719179343861" duration="271000" />
+      <workItem from="1719220062814" duration="1610000" />
+      <workItem from="1719236895770" duration="4518000" />
     </task>
     <servers />
   </component>
