@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa3050b8-81af-4498-94bb-cfbf70aa3da8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20240614-007.h5" beforeDir="false" afterPath="$PROJECT_DIR$/Test Data/20240614-007.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20240614-009.h5" beforeDir="false" afterPath="$PROJECT_DIR$/Test Data/20240614-009.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HotfireAnalysis140624.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HotfireAnalysis140624.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TClocations.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Design Data/TClocations.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daq_file_format.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/daq_file_format.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fullengine.png" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/fullengine.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interactive_plot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NoyronAnalysis140624.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Analysis/NoyronAnalysis140624.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,26 +25,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Oliver\PycharmProjects\LEAP71xTUOS\Analysis" />
       <recent name="C:\Users\Oliver\PycharmProjects\LEAP71xTUOS\Docs" />
       <recent name="C:\Users\Oliver\PycharmProjects\LEAP71xTUOS\Design Data" />
       <recent name="C:\Users\Oliver\PycharmProjects\LEAP71xTUOS\Test Data" />
       <recent name="C:\Users\Oliver\PycharmProjects\LEAP71xTUOS\Misc" />
-      <recent name="C:\Users\Oliver\PycharmProjects\LEAP71xTUOS" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -71,6 +65,7 @@
       <updated>1719158042982</updated>
       <workItem from="1719158044640" duration="286000" />
       <workItem from="1719161371619" duration="4661000" />
+      <workItem from="1719179343861" duration="271000" />
     </task>
     <servers />
   </component>
